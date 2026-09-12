@@ -1,0 +1,6 @@
+{
+  "name": "Bíblia Viva",
+  "description": "Bíblia Viva — Estudo Cristocêntrico: leitura bíblica, áudio, devocionais, anotações, preparação de mensagens e assistente bíblico com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
